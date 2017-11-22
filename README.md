@@ -1,6 +1,6 @@
 # Awesome RowList
 
-![alt text](./images/just_list.png)
+![justin list](./images/justin_list.png)
 
 An attempt to catalog some RowList/RowToList/row types related content.
 
