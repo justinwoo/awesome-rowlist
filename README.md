@@ -28,7 +28,7 @@ An attempt to catalog some RowList/RowToList/row types related content.
 
 ## Videos
 
-* Strinigfying JSON using RowList https://www.reddit.com/r/purescript/comments/6v5uhf/stringifying_json_using_rowlist_in_purescript/
+* Stringifying JSON using RowList https://www.reddit.com/r/purescript/comments/6v5uhf/stringifying_json_using_rowlist_in_purescript/
 * ChocoPie walkthrough https://www.youtube.com/watch?v=EtrxjrP1juo&feature=youtu.be&t=4462
 * Stringifying JSON using RowList in Purescript https://youtu.be/fYJhk7OOd9I
 
