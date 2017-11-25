@@ -25,6 +25,7 @@ An attempt to catalog some RowList/RowToList/row types related content.
 ## Conference talks
 
 * RowList Fun with Purescript https://www.reddit.com/r/purescript/comments/6xs5f2/rowlist_fun_with_purescript_slides_from_small_fp/
+* RowList Fun with PureScript 2nd Edition https://speakerdeck.com/justinwoo/rowlist-fun-with-purescript-2nd-edition
 
 ## Videos
 
