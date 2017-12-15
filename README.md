@@ -36,6 +36,11 @@ An attempt to catalog some RowList/RowToList/row types related content.
 * ChocoPie walkthrough https://www.youtube.com/watch?v=EtrxjrP1juo&feature=youtu.be&t=4462
 * Stringifying JSON using RowList in Purescript https://youtu.be/fYJhk7OOd9I
 
+## Gists
+
+* Record to Associated List https://gist.github.com/Thimoteus/876c704cbf81aebe671b13553f3609da
+* Homogenous Rows https://github.com/purescript/purescript-typelevel-prelude/blob/master/src/Type/Row/Homogeneous.purs
+
 ## Memes
 
 ### resubbed yuri manga:
