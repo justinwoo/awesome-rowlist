@@ -12,6 +12,7 @@ An attempt to catalog some RowList/RowToList/row types related content.
 ### Community
 
 * PureScript: RowToList intro by Liam Goodacre https://liamgoodacre.github.io/purescript/rows/records/2017/07/10/purescript-row-to-list.html
+* Experimenting with Purescript's RowToList metaprogramming by Adam Saleh http://notes.asaleh.net/posts/experimenting-with-purescripts-rowtolist-metaprogramming/
 
 ### Justin's spam
 
