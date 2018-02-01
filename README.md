@@ -21,6 +21,11 @@ An attempt to catalog some RowList/RowToList/row types related content.
 * Fun Row-typed Validation with Purescript-Home-Run-Ball https://qiita.com/kimagure/items/eeb40541fc56b8dba2cc
 * Converting types you don't want to ones you do in Purescript https://qiita.com/kimagure/items/f750d85377520a14066f
 * Writing a JSON decoder using Purescript's RowToList https://qiita.com/kimagure/items/d8a0681ae05b605c5abe
+* Modified JSON parsing for free with PureScript-Simple-JSON https://qiita.com/kimagure/items/801e1c55d4f8f218f11e, https://qiita.com/kimagure/items/43fd7b02db2950f04a1a
+* Type-level Path Params parsed to Records with PureScript https://qiita.com/kimagure/items/4f5c6054870f631ff768, https://qiita.com/kimagure/items/777133d6bbff67e3819d
+* The Tale of Two Tortellini: making record based libraries in PureScript and Haskell https://qiita.com/kimagure/items/941c22effff608dda9a7
+* Using Rows and RowToList to model Chart.js spec building https://qiita.com/kimagure/items/fd05ad13ee8def0fb4ed
+* Making Diffs of differently-typed Records in PureScript https://qiita.com/kimagure/items/ca229cb4ba76db0c24a8
 
 ## Conference talks
 
