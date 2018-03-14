@@ -55,6 +55,7 @@ An attempt to catalog some RowList/RowToList/row types related content.
 
 ### anime memes:
 * mitsuha https://twitter.com/jusrin00/status/916629728311889921
+* new header image https://twitter.com/jusrin00/status/973650084914253824
 
 ### traditional memes:
 * pepe silvia https://twitter.com/jusrin00/status/933428832618545153
