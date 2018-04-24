@@ -27,6 +27,7 @@ An attempt to catalog some RowList/RowToList/row types related content.
 * The Tale of Two Tortellini: making record based libraries in PureScript and Haskell https://qiita.com/kimagure/items/941c22effff608dda9a7
 * Using Rows and RowToList to model Chart.js spec building https://qiita.com/kimagure/items/fd05ad13ee8def0fb4ed
 * Making Diffs of differently-typed Records in PureScript https://qiita.com/kimagure/items/ca229cb4ba76db0c24a8
+* And more in <https://github.com/justinwoo/my-blog-posts> and <https://qiita.com/search?q=RowToList+user%3Akimagure>
 
 ## Conference talks
 
