@@ -36,6 +36,7 @@ An attempt to catalog some RowList/RowToList/row types related content.
 ## Meetup/session talks
 
 * RowList Fun with PureScript 2nd Edition https://speakerdeck.com/justinwoo/rowlist-fun-with-purescript-2nd-edition
+* Easy JSON deserialization with Simple-JSON and Record https://speakerdeck.com/justinwoo/easy-json-deserialization-with-simple-json-and-record
 
 ## Videos
 
