@@ -46,8 +46,9 @@ An attempt to catalog some RowList/RowToList/row types related content.
 
 ## Gists
 
-* Record to Associated List https://gist.github.com/Thimoteus/876c704cbf81aebe671b13553f3609da
-* Homogenous Rows https://github.com/purescript/purescript-typelevel-prelude/blob/master/src/Type/Row/Homogeneous.purs
+* Record to Associated List: https://gist.github.com/Thimoteus/876c704cbf81aebe671b13553f3609da
+* Homogenous Rows: https://github.com/purescript/purescript-typelevel-prelude/blob/master/src/Type/Row/Homogeneous.purs
+* Homogeneous HKT Row: https://gist.github.com/chexxor/5b491d55ea9187cd1020d034818711e5
 * RowToTuple: https://gist.github.com/i-am-tom/cad0518686a9694922d07913beb3a46f
 * ZipDisjointRecord: https://gist.github.com/i-am-tom/9bcc5a1f3dc955ec49f4b810684da371
 * ZipRecord: https://gist.github.com/i-am-tom/355987ba2b972d4da16635626b27f42e
