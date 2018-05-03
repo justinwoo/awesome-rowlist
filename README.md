@@ -55,6 +55,7 @@ An attempt to catalog some RowList/RowToList/row types related content.
 * MapRecord1: https://gist.github.com/i-am-tom/31b497620f390118022c528b69ba13d3
 * MapRecord2: https://gist.github.com/i-am-tom/729707e335f35bb98f6a8de1cd9cd3c7
 * RecordVia: https://gist.github.com/LiamGoodacre/9ee4933861b57a98282758acd4e4fd9f
+* Extensible These: https://gist.github.com/LiamGoodacre/05569bf7344f00e9f7514515840b9dfd
 
 ## Memes
 
