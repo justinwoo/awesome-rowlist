@@ -1,5 +1,7 @@
 # Awesome RowList
 
+**Note: this list isn't actually maintained, and you will find better results by searching "RowToList PureScript" on Google**
+
 An attempt to catalog some RowList/RowToList/row types related content.
 
 ## Threads
